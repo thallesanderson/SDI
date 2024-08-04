@@ -5,7 +5,7 @@ Nome do Software: [SDI - Sistema de Desenvolvimento Integrado]
 Proprietário: [Thalles Anderson Laranjeira Travassos]
 1. Concessão de Licença
 
-Sujeito aos termos e condições desta licença, o Proprietário concede ao Licenciado um direito não exclusivo, intransferível e limitado de usar o software [Nome do Software] ("Software") apenas para fins pessoais e não comerciais.
+Sujeito aos termos e condições desta licença, o Proprietário concede ao Licenciado um direito não exclusivo, intransferível e limitado de usar o software [Sistema de Desenvolvimento Integrado] ("SDI") apenas para fins pessoais e não comerciais.
 2. Restrições de Uso
 
 O Licenciado não deve:
